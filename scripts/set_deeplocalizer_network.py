@@ -2,6 +2,8 @@
 
 import json
 import argparse
+
+import os
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process some integers.')
     parser.add_argument('settings', type=str,
@@ -18,7 +20,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
     with open(args.settings, "r") as f:
         settings = json.load(f)
-    settings['LOCALIZER']['DEEPLOCALIZER_MODEL_FILE'] = args.model
-    settings['LOCALIZER']['DEEPLOCALIZER_PARAM_FILE'] = args.weights
+    assert os.path.exists(args.model)
+    assert os.path.exists(args.weights)
+    settings['LOCALIZER']['DEEPLOCALIZER_MODEL_FILE'] = os.path.abspath(args.model)
+    settings['LOCALIZER']['DEEPLOCALIZER_PARAM_FILE'] = os.path.abspath(args.weights)
     with open(args.settings, "w") as f:
         json.dump(settings, f, indent=4)
