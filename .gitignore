@@ -1,0 +1,6 @@
+
+# ignore images with border
+*wb.jpeg
+
+# default model dir
+deeplocalizer-model
