@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 
-set -e
+# set -e
 
 IMAGE_DIR=${1%/}      # remove optional slash at the end
 
@@ -38,29 +38,31 @@ ADD_BORDER_FILE="add_border_images.txt"
 GENERATE_PROPOSALS="proposals_images.txt"
 
 function shouldAddBorder() {
-    if [ ! -e "$ADD_BORDER_FILE" ]; then
+    if [ ! -e "$GENERATE_PROPOSALS" ]; then
+        echo "YEEEEEES"
         echo "yes"
         return
     fi
+    echo $GENERATE_PROPOSALS
+    echo "hei"
     while read img; do
         if [ ! -e $img ]; then
+            echo "YEEEEEES"
             echo "yes"
             return
         fi
-    done <"$ADD_BORDER_FILE"
+    done <"$GENERATE_PROPOSALS"
     echo "no"
 }
-
 cd $IMAGE_DIR
-if [ "$(shouldAddBorder)" == "yes" ]; then
-    find . -name "*.jpeg" | sort | grep -v "groundtruth" | grep -v "wb.jpeg" > "$ADD_BORDER_FILE"
+find . -name "*.jpeg" | sort | grep -v "groundtruth" | grep -v "wb.jpeg" > "$ADD_BORDER_FILE"
 
-    echo "$ADD_BORDER_FILE"
-    N_FILES="$(wc -l "$ADD_BORDER_FILE")"
+echo "$ADD_BORDER_FILE"
+N_FILES="$(wc -l "$ADD_BORDER_FILE")"
 
-    echo "adding border to $N_FILES"
-    add_border --output-pathfile=$GENERATE_PROPOSALS --output-dir=. --pathfile=$ADD_BORDER_FILE
-fi
+echo "adding border to $N_FILES"
+add_border --output-pathfile=$GENERATE_PROPOSALS --output-dir=. --pathfile=$ADD_BORDER_FILE
+
 if [ ! -e "$GENERATE_PROPOSALS" ]; then
     echo "add_border failed to generate proposal files"
     exit 1
@@ -72,7 +74,7 @@ CONFIG_FILE="pipeline-config.json"
 if [ ! -e $CONFIG_FILE ]; then
     ln -s parameter/settings.json pipeline-config.json
 fi
-GENERATE_PROPOSALS="proposals_images.txt"
-valgrind generate_proposals --pathfile $GENERATE_PROPOSALS
+
+generate_proposals --pathfile $GENERATE_PROPOSALS
 
 
