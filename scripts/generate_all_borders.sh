@@ -20,5 +20,8 @@ for cam in $1/*; do
         rm add_border_images.txt
         cd ..
     done
+    find . -name "*tagger.desc" | sed s/.tagger.desc// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
+    add_border add_border_images.txt -o `pwd`
+    rm add_border_images.txt
     cd ${base_path}
 done
