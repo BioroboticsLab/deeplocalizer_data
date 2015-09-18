@@ -9,7 +9,8 @@ lastdir = ''
 trainfiles = []
 testfiles = []
 for file in filenames:
-    dir = file.split('/')[3]
+    splitted = file.split('/')
+    dir = splitted[len(splitted) - 2]
     if dir != lastdir:
         testfiles.append(file)
     else:
