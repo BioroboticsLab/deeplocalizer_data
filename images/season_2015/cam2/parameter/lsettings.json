@@ -1,0 +1,16 @@
+{
+    "LOCALIZER": {
+        "BINARY_THRESHOLD": "36",
+        "DEEPLOCALIZER_FILTER": "1",
+        "DEEPLOCALIZER_MODEL_FILE": "\/home\/ben\/dev\/deeplocalizer-data\/from_aws\/models\/conv12_conv48_fc1024_fc_2\/deploy.prototxt",
+        "DEEPLOCALIZER_PARAM_FILE": "\/home\/ben\/dev\/deeplocalizer-data\/from_aws\/models\/conv12_conv48_fc1024_fc_2\/model_iter_20000.caffemodel",
+        "DEEPLOCALIZER_PROBABILITY_THRESHOLD": "0.318",
+        "EROSION_SIZE": "21",
+        "FIRST_DILATION_NUM_ITERATIONS": "1",
+        "FIRST_DILATION_SIZE": "8",
+        "MAX_NUM_PIXELS": "189",
+        "MIN_NUM_PIXELS": "16",
+        "SECOND_DILATION_SIZE": "4",
+        "TAG_SIZE": "100"
+    }
+}
