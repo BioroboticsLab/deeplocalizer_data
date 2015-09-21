@@ -1,0 +1,20 @@
+{
+    "GRIDFITTER":
+    {
+        "ADAPTIVE_BLOCK_SIZE": "61",
+        "ADAPTIVE_C": "255",
+        "ALPHA": "100",
+        "EPS_ANGLE": "2.22507e-308",
+        "EPS_POS": "1",
+        "EPS_SCALE": "4.775",
+        "ERR_FUNC_ALPHA_INNER": "0.306049",
+        "ERR_FUNC_ALPHA_INNER_EDGE": "0.629239",
+        "ERR_FUNC_ALPHA_OUTER": "0.764631",
+        "ERR_FUNC_ALPHA_OUTER_EDGE": "0",
+        "ERR_FUNC_ALPHA_VARIANCE": "0.510437",
+        "GRADIENT_ERROR_THRESHOLD": "0",
+        "GRADIENT_MAX_ITERATIONS": "100",
+        "GRADIENT_NUM_INITIAL": "6",
+        "GRADIENT_NUM_RESULTS": "3"
+    }
+}
