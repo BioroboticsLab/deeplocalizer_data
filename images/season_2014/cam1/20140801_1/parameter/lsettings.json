@@ -1,0 +1,17 @@
+{
+    "LOCALIZER":
+    {
+        "BINARY_THRESHOLD": "21",
+        "DEEPLOCALIZER_FILTER": "1",
+        "DEEPLOCALIZER_MODEL_FILE": "\/home\/b\/bembenwi\/deeplocalizer_models\/models\/conv12_conv48_fc1024_fc_2\/deploy.prototxt",
+        "DEEPLOCALIZER_PARAM_FILE": "\/home\/b\/bembenwi\/deeplocalizer_models\/models\/conv12_conv48_fc1024_fc_2\/model_iter_20000.caffemodel",
+        "DEEPLOCALIZER_PROBABILITY_THRESHOLD": "0.183815",
+        "EROSION_SIZE": "18",
+        "FIRST_DILATION_NUM_ITERATIONS": "1",
+        "FIRST_DILATION_SIZE": "6",
+        "MAX_NUM_PIXELS": "200",
+        "MIN_NUM_PIXELS": "1",
+        "SECOND_DILATION_SIZE": "2",
+        "TAG_SIZE": "100"
+    }
+}
