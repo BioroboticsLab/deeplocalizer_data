@@ -1,0 +1,68 @@
+{
+    "PREPROCESSOR":
+    {
+        "COMB_DIFF_SIZE": "15",
+        "COMB_ENABLED": "1",
+        "COMB_LINE_COLOR": "0",
+        "COMB_LINE_WIDTH": "9",
+        "COMB_MAX_SIZE": "75",
+        "COMB_MIN_SIZE": "144",
+        "COMB_THRESHOLD": "28.7091",
+        "HONEY_AVERAGE_VALUE": "181.516",
+        "HONEY_ENABLED": "1",
+        "HONEY_FRAME_SIZE": "22",
+        "HONEY_STD_DEV": "83.8104",
+        "OPT_AVERAGE_CONTRAST_VALUE": "42.0326",
+        "OPT_FRAME_SIZE": "273",
+        "OPT_USE_CONTRAST_STRETCHING": "1",
+        "OPT_USE_EQUALIZE_HISTOGRAM": "0"
+    },
+    "LOCALIZER":
+    {
+        "BINARY_THRESHOLD": "12",
+        "DEEPLOCALIZER_FILTER": "1",
+        "DEEPLOCALIZER_MODEL_FILE": "\/home\/b\/bembenwi\/deeplocalizer_models\/models\/conv12_conv48_fc1024_fc_2\/deploy.prototxt",
+        "DEEPLOCALIZER_PARAM_FILE": "\/home\/b\/bembenwi\/deeplocalizer_models\/models\/conv12_conv48_fc1024_fc_2\/model_iter_20000.caffemodel",
+        "DEEPLOCALIZER_PROBABILITY_THRESHOLD": "0.829894",
+        "EROSION_SIZE": "16",
+        "FIRST_DILATION_NUM_ITERATIONS": "2",
+        "FIRST_DILATION_SIZE": "3",
+        "MAX_NUM_PIXELS": "137",
+        "MIN_NUM_PIXELS": "23",
+        "SECOND_DILATION_SIZE": "4",
+        "TAG_SIZE": "100"
+    },
+    "ELLIPSEFITTER":
+    {
+        "CANNY_INITIAL_HIGH": "89",
+        "CANNY_MEAN_MAX": "30",
+        "CANNY_MEAN_MIN": "5",
+        "CANNY_VALUES_DISTANCE": "100",
+        "MAX_MAJOR_AXIS": "46",
+        "MAX_MINOR_AXIS": "46",
+        "MIN_MAJOR_AXIS": "30",
+        "MIN_MINOR_AXIS": "33",
+        "THRESHOLD_BEST_VOTE": "2888",
+        "THRESHOLD_EDGE_PIXELS": "15",
+        "THRESHOLD_VOTE": "811",
+        "USE_XIE_AS_FALLBACK": "1"
+    },
+    "GRIDFITTER":
+    {
+        "ADAPTIVE_BLOCK_SIZE": "61",
+        "ADAPTIVE_C": "0",
+        "ALPHA": "56.9859",
+        "EPS_ANGLE": "5.53703",
+        "EPS_POS": "1",
+        "EPS_SCALE": "10",
+        "ERR_FUNC_ALPHA_INNER": "0.276673",
+        "ERR_FUNC_ALPHA_INNER_EDGE": "0.582123",
+        "ERR_FUNC_ALPHA_OUTER": "0.687707",
+        "ERR_FUNC_ALPHA_OUTER_EDGE": "0",
+        "ERR_FUNC_ALPHA_VARIANCE": "0.324523",
+        "GRADIENT_ERROR_THRESHOLD": "0",
+        "GRADIENT_MAX_ITERATIONS": "100",
+        "GRADIENT_NUM_INITIAL": "6",
+        "GRADIENT_NUM_RESULTS": "3"
+    }
+}
