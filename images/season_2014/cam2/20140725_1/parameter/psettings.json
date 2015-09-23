@@ -1,0 +1,20 @@
+{
+    "PREPROCESSOR":
+    {
+        "COMB_DIFF_SIZE": "15",
+        "COMB_ENABLED": "1",
+        "COMB_LINE_COLOR": "0",
+        "COMB_LINE_WIDTH": "9",
+        "COMB_MAX_SIZE": "64",
+        "COMB_MIN_SIZE": "81",
+        "COMB_THRESHOLD": "78.5606",
+        "HONEY_AVERAGE_VALUE": "214.69",
+        "HONEY_ENABLED": "1",
+        "HONEY_FRAME_SIZE": "29",
+        "HONEY_STD_DEV": "0.318457",
+        "OPT_AVERAGE_CONTRAST_VALUE": "133.012",
+        "OPT_FRAME_SIZE": "280",
+        "OPT_USE_CONTRAST_STRETCHING": "1",
+        "OPT_USE_EQUALIZE_HISTOGRAM": "0"
+    }
+}
