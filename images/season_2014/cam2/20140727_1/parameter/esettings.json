@@ -1,0 +1,17 @@
+{
+    "ELLIPSEFITTER":
+    {
+        "CANNY_INITIAL_HIGH": "77",
+        "CANNY_MEAN_MAX": "22",
+        "CANNY_MEAN_MIN": "12",
+        "CANNY_VALUES_DISTANCE": "20",
+        "MAX_MAJOR_AXIS": "63",
+        "MAX_MINOR_AXIS": "46",
+        "MIN_MAJOR_AXIS": "20",
+        "MIN_MINOR_AXIS": "29",
+        "THRESHOLD_BEST_VOTE": "4000",
+        "THRESHOLD_EDGE_PIXELS": "40",
+        "THRESHOLD_VOTE": "868",
+        "USE_XIE_AS_FALLBACK": "1"
+    }
+}
