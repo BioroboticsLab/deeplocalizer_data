@@ -1,0 +1,965 @@
+{
+    "filename": "./Cam_3_20150911120723_198302_wb.jpeg",
+    "tags": [
+        {
+            "ellipse": {
+                "angle": 116.565051177078,
+                "axis_height": 20,
+                "axis_width": 22,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1818
+            },
+            "tagtype": "istag",
+            "x": 1399,
+            "y": 2929
+        },
+        {
+            "ellipse": {
+                "angle": 157.109448343752,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1750
+            },
+            "tagtype": "istag",
+            "x": 2715,
+            "y": 2951
+        },
+        {
+            "ellipse": {
+                "angle": 59.2372804657611,
+                "axis_height": 17,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1381
+            },
+            "tagtype": "istag",
+            "x": 332,
+            "y": 2923
+        },
+        {
+            "ellipse": {
+                "angle": 18.434948822922,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2566
+            },
+            "tagtype": "istag",
+            "x": 1511,
+            "y": 2908
+        },
+        {
+            "ellipse": {
+                "angle": 40.3141001604973,
+                "axis_height": 20,
+                "axis_width": 22,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1818
+            },
+            "tagtype": "istag",
+            "x": 1317,
+            "y": 2896
+        },
+        {
+            "ellipse": {
+                "angle": 50.0424510691709,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 3437
+            },
+            "tagtype": "istag",
+            "x": 1902,
+            "y": 2818
+        },
+        {
+            "ellipse": {
+                "angle": 18.7998851586527,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2508
+            },
+            "tagtype": "istag",
+            "x": 1305,
+            "y": 2808
+        },
+        {
+            "ellipse": {
+                "angle": 145.007979801441,
+                "axis_height": 23,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2922
+            },
+            "tagtype": "istag",
+            "x": 1026,
+            "y": 2787
+        },
+        {
+            "ellipse": {
+                "angle": 86.3477772196937,
+                "axis_height": 17,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1239
+            },
+            "tagtype": "istag",
+            "x": 2332,
+            "y": 2783
+        },
+        {
+            "ellipse": {
+                "angle": 74.5387822595581,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1916
+            },
+            "tagtype": "istag",
+            "x": 2167,
+            "y": 2752
+        },
+        {
+            "tagtype": "notag",
+            "x": 1221,
+            "y": 2749
+        },
+        {
+            "ellipse": {
+                "angle": 57.2647737278924,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2162
+            },
+            "tagtype": "istag",
+            "x": 1835,
+            "y": 2756
+        },
+        {
+            "ellipse": {
+                "angle": 57.8477048587177,
+                "axis_height": 15,
+                "axis_width": 21,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1250
+            },
+            "tagtype": "istag",
+            "x": 1262,
+            "y": 2726
+        },
+        {
+            "ellipse": {
+                "angle": 95.8263420295558,
+                "axis_height": 15,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1110
+            },
+            "tagtype": "istag",
+            "x": 471,
+            "y": 2724
+        },
+        {
+            "ellipse": {
+                "angle": 71.2001148413473,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2904
+            },
+            "tagtype": "istag",
+            "x": 1412,
+            "y": 2728
+        },
+        {
+            "ellipse": {
+                "angle": 55.0079798014413,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2458
+            },
+            "tagtype": "istag",
+            "x": 2605,
+            "y": 2724
+        },
+        {
+            "ellipse": {
+                "angle": 81.869897645844,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2156
+            },
+            "tagtype": "istag",
+            "x": 1599,
+            "y": 2719
+        },
+        {
+            "ellipse": {
+                "angle": 14.3227199782036,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2362
+            },
+            "tagtype": "istag",
+            "x": 2436,
+            "y": 2671
+        },
+        {
+            "ellipse": {
+                "angle": 51.519801751657,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2948
+            },
+            "tagtype": "istag",
+            "x": 2197,
+            "y": 2643
+        },
+        {
+            "ellipse": {
+                "angle": 71.2001148413473,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2024
+            },
+            "tagtype": "istag",
+            "x": 2002,
+            "y": 2619
+        },
+        {
+            "tagtype": "notag",
+            "x": 1423,
+            "y": 2592
+        },
+        {
+            "ellipse": {
+                "angle": 124.019349989826,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2843
+            },
+            "tagtype": "istag",
+            "x": 1053,
+            "y": 2598
+        },
+        {
+            "ellipse": {
+                "angle": 153.996654155489,
+                "axis_height": 20,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2173
+            },
+            "tagtype": "istag",
+            "x": 1538,
+            "y": 2581
+        },
+        {
+            "ellipse": {
+                "angle": 133.315315682104,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2475
+            },
+            "tagtype": "istag",
+            "x": 2145,
+            "y": 2545
+        },
+        {
+            "ellipse": {
+                "angle": 99.4623222080256,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2041
+            },
+            "tagtype": "istag",
+            "x": 1819,
+            "y": 2545
+        },
+        {
+            "ellipse": {
+                "angle": 30.1735200296443,
+                "axis_height": 21,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1974
+            },
+            "tagtype": "istag",
+            "x": 841,
+            "y": 2522
+        },
+        {
+            "ellipse": {
+                "angle": 74.5387822595581,
+                "axis_height": 23,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 3018
+            },
+            "tagtype": "istag",
+            "x": 1372,
+            "y": 2520
+        },
+        {
+            "ellipse": {
+                "angle": 94.666858371439,
+                "axis_height": 20,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2240
+            },
+            "tagtype": "istag",
+            "x": 2864,
+            "y": 2509
+        },
+        {
+            "ellipse": {
+                "angle": 46.6846843178963,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2795
+            },
+            "tagtype": "istag",
+            "x": 1704,
+            "y": 2496
+        },
+        {
+            "ellipse": {
+                "angle": 122.660912721674,
+                "axis_height": 20,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2000
+            },
+            "tagtype": "istag",
+            "x": 1127,
+            "y": 2491
+        },
+        {
+            "ellipse": {
+                "angle": 45.0,
+                "axis_height": 17,
+                "axis_width": 18,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2172
+            },
+            "tagtype": "istag",
+            "x": 2329,
+            "y": 2474
+        },
+        {
+            "ellipse": {
+                "angle": 161.200114841347,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2376
+            },
+            "tagtype": "istag",
+            "x": 2192,
+            "y": 2444
+        },
+        {
+            "ellipse": {
+                "angle": 70.7693276243387,
+                "axis_height": 19,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1610
+            },
+            "tagtype": "istag",
+            "x": 1287,
+            "y": 2441
+        },
+        {
+            "ellipse": {
+                "angle": 62.4027041313563,
+                "axis_height": 20,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1760
+            },
+            "tagtype": "istag",
+            "x": 1572,
+            "y": 2418
+        },
+        {
+            "ellipse": {
+                "angle": 106.587338556927,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2622
+            },
+            "tagtype": "istag",
+            "x": 3290,
+            "y": 2386
+        },
+        {
+            "ellipse": {
+                "angle": 113.962488974578,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2070
+            },
+            "tagtype": "istag",
+            "x": 1958,
+            "y": 2378
+        },
+        {
+            "ellipse": {
+                "angle": 51.7098368077569,
+                "axis_height": 23,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2875
+            },
+            "tagtype": "istag",
+            "x": 1158,
+            "y": 2374
+        },
+        {
+            "ellipse": {
+                "angle": 39.0355128987469,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2012
+            },
+            "tagtype": "istag",
+            "x": 1446,
+            "y": 2346
+        },
+        {
+            "ellipse": {
+                "angle": 52.4314079711725,
+                "axis_height": 21,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2100
+            },
+            "tagtype": "istag",
+            "x": 1777,
+            "y": 2329
+        },
+        {
+            "ellipse": {
+                "angle": 125.676408221862,
+                "axis_height": 15,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1093
+            },
+            "tagtype": "istag",
+            "x": 242,
+            "y": 2309
+        },
+        {
+            "ellipse": {
+                "angle": 140.194428907735,
+                "axis_height": 20,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1869
+            },
+            "tagtype": "istag",
+            "x": 1109,
+            "y": 2275
+        },
+        {
+            "ellipse": {
+                "angle": 18.8247100182401,
+                "axis_height": 20,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2043
+            },
+            "tagtype": "istag",
+            "x": 1559,
+            "y": 2296
+        },
+        {
+            "tagtype": "notag",
+            "x": 94,
+            "y": 2282
+        },
+        {
+            "ellipse": {
+                "angle": 124.380344723845,
+                "axis_height": 19,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1776
+            },
+            "tagtype": "istag",
+            "x": 1228,
+            "y": 2291
+        },
+        {
+            "ellipse": {
+                "angle": 24.4439547804165,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1787
+            },
+            "tagtype": "istag",
+            "x": 2472,
+            "y": 2240
+        },
+        {
+            "ellipse": {
+                "angle": 141.709836807757,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2458
+            },
+            "tagtype": "istag",
+            "x": 2063,
+            "y": 2206
+        },
+        {
+            "ellipse": {
+                "angle": 138.691385986451,
+                "axis_height": 20,
+                "axis_width": 22,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1636
+            },
+            "tagtype": "istag",
+            "x": 1098,
+            "y": 2166
+        },
+        {
+            "ellipse": {
+                "angle": 106.587338556927,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2596
+            },
+            "tagtype": "istag",
+            "x": 1612,
+            "y": 2122
+        },
+        {
+            "ellipse": {
+                "angle": 14.3227199782036,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2245
+            },
+            "tagtype": "istag",
+            "x": 2358,
+            "y": 2113
+        },
+        {
+            "ellipse": {
+                "angle": 97.1250163489018,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2800
+            },
+            "tagtype": "istag",
+            "x": 1791,
+            "y": 2080
+        },
+        {
+            "ellipse": {
+                "angle": 73.6861475737394,
+                "axis_height": 19,
+                "axis_width": 21,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1900
+            },
+            "tagtype": "istag",
+            "x": 1599,
+            "y": 2021
+        },
+        {
+            "ellipse": {
+                "angle": 122.735226272108,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2162
+            },
+            "tagtype": "istag",
+            "x": 2061,
+            "y": 2036
+        },
+        {
+            "ellipse": {
+                "angle": 85.2363583092738,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2520
+            },
+            "tagtype": "istag",
+            "x": 1166,
+            "y": 1985
+        },
+        {
+            "ellipse": {
+                "angle": 68.6293777306568,
+                "axis_height": 20,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1920
+            },
+            "tagtype": "istag",
+            "x": 1990,
+            "y": 1940
+        },
+        {
+            "ellipse": {
+                "angle": 104.322719978204,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1793
+            },
+            "tagtype": "istag",
+            "x": 1259,
+            "y": 1863
+        },
+        {
+            "ellipse": {
+                "angle": 136.684684317896,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1875
+            },
+            "tagtype": "istag",
+            "x": 1545,
+            "y": 1836
+        },
+        {
+            "ellipse": {
+                "angle": 175.135485562239,
+                "axis_height": 19,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1900
+            },
+            "tagtype": "istag",
+            "x": 2115,
+            "y": 1706
+        },
+        {
+            "ellipse": {
+                "angle": 71.2001148413473,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2816
+            },
+            "tagtype": "istag",
+            "x": 2396,
+            "y": 1705
+        },
+        {
+            "ellipse": {
+                "angle": 141.709836807757,
+                "axis_height": 23,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2587
+            },
+            "tagtype": "istag",
+            "x": 1391,
+            "y": 1699
+        },
+        {
+            "ellipse": {
+                "angle": 71.0753555839488,
+                "axis_height": 17,
+                "axis_width": 18,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1841
+            },
+            "tagtype": "istag",
+            "x": 1603,
+            "y": 1692
+        },
+        {
+            "ellipse": {
+                "angle": 29.1676133795778,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2944
+            },
+            "tagtype": "istag",
+            "x": 1915,
+            "y": 1575
+        },
+        {
+            "ellipse": {
+                "angle": 61.8583987677383,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2012
+            },
+            "tagtype": "istag",
+            "x": 1381,
+            "y": 1571
+        },
+        {
+            "ellipse": {
+                "angle": 23.9624889745782,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2438
+            },
+            "tagtype": "istag",
+            "x": 1219,
+            "y": 1541
+        },
+        {
+            "ellipse": {
+                "angle": 29.1676133795778,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 4002
+            },
+            "tagtype": "istag",
+            "x": 1875,
+            "y": 1469
+        },
+        {
+            "ellipse": {
+                "angle": 90.0,
+                "axis_height": 18,
+                "axis_width": 21,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1542
+            },
+            "tagtype": "istag",
+            "x": 1388,
+            "y": 1430
+        },
+        {
+            "tagtype": "notag",
+            "x": 50,
+            "y": 1278
+        },
+        {
+            "tagtype": "notag",
+            "x": 91,
+            "y": 1247
+        },
+        {
+            "ellipse": {
+                "angle": 57.0305960965379,
+                "axis_height": 20,
+                "axis_width": 22,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1727
+            },
+            "tagtype": "istag",
+            "x": 1526,
+            "y": 1248
+        },
+        {
+            "tagtype": "notag",
+            "x": 82,
+            "y": 1213
+        },
+        {
+            "tagtype": "notag",
+            "x": 2349,
+            "y": 1065
+        },
+        {
+            "ellipse": {
+                "angle": 125.095816787026,
+                "axis_height": 18,
+                "axis_width": 23,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1369
+            },
+            "tagtype": "istag",
+            "x": 3547,
+            "y": 1067
+        },
+        {
+            "ellipse": {
+                "angle": 38.480198248343,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2728
+            },
+            "tagtype": "istag",
+            "x": 1668,
+            "y": 1051
+        },
+        {
+            "tagtype": "notag",
+            "x": 3081,
+            "y": 1004
+        },
+        {
+            "ellipse": {
+                "angle": 165.677280021796,
+                "axis_height": 21,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2143
+            },
+            "tagtype": "istag",
+            "x": 3123,
+            "y": 1016
+        },
+        {
+            "ellipse": {
+                "angle": 46.6846843178963,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1833
+            },
+            "tagtype": "istag",
+            "x": 1905,
+            "y": 951
+        },
+        {
+            "ellipse": {
+                "angle": 27.0955524937518,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2250
+            },
+            "tagtype": "istag",
+            "x": 1563,
+            "y": 645
+        },
+        {
+            "ellipse": {
+                "angle": 170.7273982228,
+                "axis_height": 20,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1640
+            },
+            "tagtype": "istag",
+            "x": 2331,
+            "y": 338
+        },
+        {
+            "ellipse": {
+                "angle": 141.709836807757,
+                "axis_height": 20,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 1625
+            },
+            "tagtype": "istag",
+            "x": 1653,
+            "y": 335
+        },
+        {
+            "tagtype": "notag",
+            "x": 77,
+            "y": 314
+        },
+        {
+            "tagtype": "notag",
+            "x": 1428,
+            "y": 92
+        }
+    ]
+}

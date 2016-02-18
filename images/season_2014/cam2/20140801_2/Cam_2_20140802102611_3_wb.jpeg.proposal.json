@@ -1,0 +1,111 @@
+{
+    "filename": "./Cam_2_20140802102611_3_wb.jpeg",
+    "tags": [
+        {
+            "tagtype": "notag",
+            "x": 1111,
+            "y": 2869
+        },
+        {
+            "tagtype": "notag",
+            "x": 2804,
+            "y": 2842
+        },
+        {
+            "tagtype": "notag",
+            "x": 1288,
+            "y": 2774
+        },
+        {
+            "tagtype": "notag",
+            "x": 650,
+            "y": 2646
+        },
+        {
+            "tagtype": "notag",
+            "x": 1241,
+            "y": 2587
+        },
+        {
+            "tagtype": "notag",
+            "x": 1410,
+            "y": 2433
+        },
+        {
+            "tagtype": "notag",
+            "x": 271,
+            "y": 2418
+        },
+        {
+            "tagtype": "notag",
+            "x": 442,
+            "y": 2322
+        },
+        {
+            "tagtype": "notag",
+            "x": 565,
+            "y": 2118
+        },
+        {
+            "tagtype": "notag",
+            "x": 1989,
+            "y": 2109
+        },
+        {
+            "tagtype": "notag",
+            "x": 1382,
+            "y": 1944
+        },
+        {
+            "ellipse": {
+                "angle": 161.200114841347,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2068
+            },
+            "tagtype": "istag",
+            "x": 2400,
+            "y": 1714
+        },
+        {
+            "ellipse": {
+                "angle": 50.0424510691709,
+                "axis_height": 22,
+                "axis_width": 24,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2291
+            },
+            "tagtype": "istag",
+            "x": 1668,
+            "y": 1711
+        },
+        {
+            "tagtype": "notag",
+            "x": 182,
+            "y": 1487
+        },
+        {
+            "tagtype": "notag",
+            "x": 1949,
+            "y": 1394
+        },
+        {
+            "tagtype": "notag",
+            "x": 716,
+            "y": 1236
+        },
+        {
+            "tagtype": "notag",
+            "x": 1428,
+            "y": 1027
+        },
+        {
+            "tagtype": "notag",
+            "x": 316,
+            "y": 30
+        }
+    ]
+}

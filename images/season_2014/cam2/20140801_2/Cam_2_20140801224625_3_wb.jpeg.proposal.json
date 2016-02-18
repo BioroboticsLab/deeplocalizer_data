@@ -1,0 +1,112 @@
+{
+    "filename": "./Cam_2_20140801224625_3_wb.jpeg",
+    "tags": [
+        {
+            "tagtype": "notag",
+            "x": 2051,
+            "y": 2929
+        },
+        {
+            "tagtype": "notag",
+            "x": 1267,
+            "y": 2757
+        },
+        {
+            "tagtype": "notag",
+            "x": 2335,
+            "y": 2726
+        },
+        {
+            "tagtype": "notag",
+            "x": 1030,
+            "y": 2706
+        },
+        {
+            "ellipse": {
+                "angle": 37.5685920288275,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2162
+            },
+            "tagtype": "istag",
+            "x": 1796,
+            "y": 2623
+        },
+        {
+            "tagtype": "notag",
+            "x": 926,
+            "y": 2357
+        },
+        {
+            "ellipse": {
+                "angle": 75.1413855520753,
+                "axis_height": 22,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2068
+            },
+            "tagtype": "istag",
+            "x": 2461,
+            "y": 2315
+        },
+        {
+            "tagtype": "notag",
+            "x": 1842,
+            "y": 2173
+        },
+        {
+            "tagtype": "notag",
+            "x": 2100,
+            "y": 2056
+        },
+        {
+            "ellipse": {
+                "angle": 142.431407971173,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2162
+            },
+            "tagtype": "istag",
+            "x": 1621,
+            "y": 2019
+        },
+        {
+            "tagtype": "notag",
+            "x": 296,
+            "y": 1793
+        },
+        {
+            "ellipse": {
+                "angle": 101.534620653645,
+                "axis_height": 23,
+                "axis_width": 25,
+                "center_x": 30,
+                "center_y": 30,
+                "vote": 2070
+            },
+            "tagtype": "istag",
+            "x": 1289,
+            "y": 1602
+        },
+        {
+            "tagtype": "notag",
+            "x": 2055,
+            "y": 1587
+        },
+        {
+            "tagtype": "notag",
+            "x": 302,
+            "y": 1342
+        },
+        {
+            "tagtype": "notag",
+            "x": 123,
+            "y": 481
+        }
+    ]
+}
