@@ -6,7 +6,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 base_path=`pwd`
-
+options="--use-hist-eq 1 --use-threshold 1"
 for cam in $1/*; do
     [ -d "${cam}" ] || continue
     cd ${cam}
@@ -15,13 +15,14 @@ for cam in $1/*; do
         [ -d "${path}" ] || continue
         echo "${path}"
         cd ${path}
-        find . -name "*tagger.desc" | sed s/.tagger.desc// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
-        add_border add_border_images.txt -o `pwd`
+        find . -name "*tagger.json" | sed s/.tagger.json// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
+        cat add_border_images.txt
+        preprocess add_border_images.txt -o `pwd` $options
         rm add_border_images.txt
         cd ..
     done
-    find . -name "*tagger.desc" | sed s/.tagger.desc// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
-    add_border add_border_images.txt -o `pwd`
+    find . -name "*tagger.json" | sed s/.tagger.json// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
+    preprocess add_border_images.txt -o `pwd` $options
     rm add_border_images.txt
     cd ${base_path}
 done
