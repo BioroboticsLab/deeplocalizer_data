@@ -17,12 +17,12 @@ for cam in $1/*; do
         cd ${path}
         find . -name "*tagger.json" | sed s/.tagger.json// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
         cat add_border_images.txt
-        preprocess add_border_images.txt -o `pwd` $options
+        bb_preprocess add_border_images.txt -o `pwd` $options
         rm add_border_images.txt
         cd ..
     done
     find . -name "*tagger.json" | sed s/.tagger.json// | sed s/_wb.jpeg/.jpeg/ > add_border_images.txt
-    preprocess add_border_images.txt -o `pwd` $options
+    bb_preprocess add_border_images.txt -o `pwd` $options
     rm add_border_images.txt
     cd ${base_path}
 done
