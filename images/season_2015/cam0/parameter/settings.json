@@ -19,10 +19,10 @@
         "BINARY_THRESHOLD": "50",
         "DEEPLOCALIZER_PROBABILITY_THRESHOLD": "0.148405",
         "SECOND_DILATION_SIZE": "1",
-        "DEEPLOCALIZER_PARAM_FILE": "/home/leon/uni/vision_swp/deeplocalizer_data/deeplocalizer-model/latest_iteration.caffemodel",
+        "DEEPLOCALIZER_PARAM_FILE": "cpm-packages/modules/github_bioroboticslab_deeplocalizer_models_usemxnet/src/models/season2015_mxnet_vgg_100x100/filternet-0020.params",
         "FIRST_DILATION_SIZE": "4",
         "MIN_NUM_PIXELS": "23",
-        "DEEPLOCALIZER_MODEL_FILE": "/home/leon/uni/vision_swp/deeplocalizer_data/deeplocalizer-model/deploy.prototxt",
+        "DEEPLOCALIZER_MODEL_FILE": "cpm-packages/modules/github_bioroboticslab_deeplocalizer_models_usemxnet/src/models/season2015_mxnet_vgg_100x100/filternet-symbol.json",
         "MAX_NUM_PIXELS": "200",
         "EROSION_SIZE": "12",
         "FIRST_DILATION_NUM_ITERATIONS": "2"
