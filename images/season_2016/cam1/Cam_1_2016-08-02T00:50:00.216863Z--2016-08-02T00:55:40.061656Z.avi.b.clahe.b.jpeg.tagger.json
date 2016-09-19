@@ -1,0 +1,1290 @@
+{
+  "filename": "/home/ben/ssh/flip-home/ben/deeplocalizer_data/images/season_2016/Cam_1_2016-08-02T00:50:00.216863Z--2016-08-02T00:55:40.061656Z.avi.b.clahe.b.jpeg",
+  "tags": [
+    {
+      "tagtype": "istag",
+      "x": 365,
+      "y": 171
+    },
+    {
+      "tagtype": "istag",
+      "x": 545,
+      "y": 152
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 457,
+      "y": 363
+    },
+    {
+      "tagtype": "istag",
+      "x": 813,
+      "y": 342
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 992,
+      "y": 464
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 992,
+      "y": 503
+    },
+    {
+      "tagtype": "istag",
+      "x": 1203,
+      "y": 315
+    },
+    {
+      "tagtype": "istag",
+      "x": 1175,
+      "y": 153
+    },
+    {
+      "tagtype": "istag",
+      "x": 1433,
+      "y": 240
+    },
+    {
+      "tagtype": "istag",
+      "x": 1535,
+      "y": 334
+    },
+    {
+      "tagtype": "istag",
+      "x": 1549,
+      "y": 459
+    },
+    {
+      "tagtype": "istag",
+      "x": 1651,
+      "y": 119
+    },
+    {
+      "tagtype": "istag",
+      "x": 1735,
+      "y": 549
+    },
+    {
+      "tagtype": "istag",
+      "x": 1839,
+      "y": 349
+    },
+    {
+      "tagtype": "istag",
+      "x": 1957,
+      "y": 297
+    },
+    {
+      "tagtype": "istag",
+      "x": 1950,
+      "y": 505
+    },
+    {
+      "tagtype": "istag",
+      "x": 1887,
+      "y": 621
+    },
+    {
+      "tagtype": "istag",
+      "x": 2323,
+      "y": 469
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2207,
+      "y": 93
+    },
+    {
+      "tagtype": "istag",
+      "x": 2427,
+      "y": 499
+    },
+    {
+      "tagtype": "istag",
+      "x": 2575,
+      "y": 501
+    },
+    {
+      "tagtype": "istag",
+      "x": 2715,
+      "y": 369
+    },
+    {
+      "tagtype": "istag",
+      "x": 2672,
+      "y": 257
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2599,
+      "y": 151
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2882,
+      "y": 347
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2771,
+      "y": 213
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2971,
+      "y": 72
+    },
+    {
+      "tagtype": "istag",
+      "x": 2855,
+      "y": 487
+    },
+    {
+      "tagtype": "istag",
+      "x": 3158,
+      "y": 327
+    },
+    {
+      "tagtype": "istag",
+      "x": 3150,
+      "y": 218
+    },
+    {
+      "tagtype": "istag",
+      "x": 3126,
+      "y": 552
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3245,
+      "y": 571
+    },
+    {
+      "tagtype": "istag",
+      "x": 3397,
+      "y": 421
+    },
+    {
+      "tagtype": "istag",
+      "x": 3591,
+      "y": 206
+    },
+    {
+      "tagtype": "istag",
+      "x": 3583,
+      "y": 335
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3654,
+      "y": 81
+    },
+    {
+      "tagtype": "istag",
+      "x": 3211,
+      "y": 67
+    },
+    {
+      "tagtype": "istag",
+      "x": 3807,
+      "y": 569
+    },
+    {
+      "tagtype": "istag",
+      "x": 3937,
+      "y": 376
+    },
+    {
+      "tagtype": "istag",
+      "x": 3945,
+      "y": 293
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3849,
+      "y": 156
+    },
+    {
+      "tagtype": "istag",
+      "x": 674,
+      "y": 683
+    },
+    {
+      "tagtype": "istag",
+      "x": 552,
+      "y": 775
+    },
+    {
+      "tagtype": "istag",
+      "x": 847,
+      "y": 869
+    },
+    {
+      "tagtype": "istag",
+      "x": 1095,
+      "y": 1012
+    },
+    {
+      "tagtype": "istag",
+      "x": 1129,
+      "y": 1057
+    },
+    {
+      "tagtype": "istag",
+      "x": 1205,
+      "y": 708
+    },
+    {
+      "tagtype": "istag",
+      "x": 1353,
+      "y": 649
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1405,
+      "y": 896
+    },
+    {
+      "tagtype": "istag",
+      "x": 1522,
+      "y": 1036
+    },
+    {
+      "tagtype": "istag",
+      "x": 1670,
+      "y": 1075
+    },
+    {
+      "tagtype": "istag",
+      "x": 1729,
+      "y": 899
+    },
+    {
+      "tagtype": "istag",
+      "x": 1745,
+      "y": 750
+    },
+    {
+      "tagtype": "istag",
+      "x": 2311,
+      "y": 699
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2021,
+      "y": 1107
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2136,
+      "y": 1093
+    },
+    {
+      "tagtype": "istag",
+      "x": 2400,
+      "y": 788
+    },
+    {
+      "tagtype": "istag",
+      "x": 2493,
+      "y": 631
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2675,
+      "y": 640
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2723,
+      "y": 600
+    },
+    {
+      "tagtype": "istag",
+      "x": 2707,
+      "y": 815
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2675,
+      "y": 1087
+    },
+    {
+      "tagtype": "istag",
+      "x": 2905,
+      "y": 939
+    },
+    {
+      "tagtype": "istag",
+      "x": 3179,
+      "y": 830
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3063,
+      "y": 731
+    },
+    {
+      "tagtype": "istag",
+      "x": 3175,
+      "y": 1006
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3539,
+      "y": 937
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3469,
+      "y": 969
+    },
+    {
+      "tagtype": "istag",
+      "x": 3591,
+      "y": 782
+    },
+    {
+      "tagtype": "istag",
+      "x": 3511,
+      "y": 654
+    },
+    {
+      "tagtype": "istag",
+      "x": 3770,
+      "y": 663
+    },
+    {
+      "tagtype": "istag",
+      "x": 3839,
+      "y": 941
+    },
+    {
+      "tagtype": "istag",
+      "x": 3959,
+      "y": 799
+    },
+    {
+      "tagtype": "istag",
+      "x": 530,
+      "y": 1178
+    },
+    {
+      "tagtype": "istag",
+      "x": 740,
+      "y": 1273
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 921,
+      "y": 1185
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 975,
+      "y": 1403
+    },
+    {
+      "tagtype": "istag",
+      "x": 1152,
+      "y": 1433
+    },
+    {
+      "tagtype": "istag",
+      "x": 1245,
+      "y": 1394
+    },
+    {
+      "tagtype": "istag",
+      "x": 1318,
+      "y": 1185
+    },
+    {
+      "tagtype": "istag",
+      "x": 1121,
+      "y": 1546
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 909,
+      "y": 1599
+    },
+    {
+      "tagtype": "istag",
+      "x": 598,
+      "y": 1619
+    },
+    {
+      "tagtype": "istag",
+      "x": 1615,
+      "y": 1327
+    },
+    {
+      "tagtype": "istag",
+      "x": 1789,
+      "y": 1393
+    },
+    {
+      "tagtype": "istag",
+      "x": 1857,
+      "y": 1263
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1889,
+      "y": 1519
+    },
+    {
+      "tagtype": "istag",
+      "x": 2154,
+      "y": 1267
+    },
+    {
+      "tagtype": "istag",
+      "x": 2177,
+      "y": 1176
+    },
+    {
+      "tagtype": "istag",
+      "x": 2205,
+      "y": 1367
+    },
+    {
+      "tagtype": "istag",
+      "x": 2245,
+      "y": 1465
+    },
+    {
+      "tagtype": "istag",
+      "x": 2189,
+      "y": 1606
+    },
+    {
+      "tagtype": "istag",
+      "x": 2416,
+      "y": 1061
+    },
+    {
+      "tagtype": "istag",
+      "x": 2361,
+      "y": 1298
+    },
+    {
+      "tagtype": "istag",
+      "x": 2513,
+      "y": 1395
+    },
+    {
+      "tagtype": "istag",
+      "x": 2458,
+      "y": 1530
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2742,
+      "y": 1225
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2817,
+      "y": 1357
+    },
+    {
+      "tagtype": "istag",
+      "x": 2631,
+      "y": 1632
+    },
+    {
+      "tagtype": "istag",
+      "x": 2909,
+      "y": 1173
+    },
+    {
+      "tagtype": "istag",
+      "x": 3069,
+      "y": 1265
+    },
+    {
+      "tagtype": "istag",
+      "x": 3101,
+      "y": 1443
+    },
+    {
+      "tagtype": "istag",
+      "x": 3101,
+      "y": 1587
+    },
+    {
+      "tagtype": "istag",
+      "x": 3241,
+      "y": 1473
+    },
+    {
+      "tagtype": "istag",
+      "x": 3335,
+      "y": 1553
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3259,
+      "y": 1159
+    },
+    {
+      "tagtype": "istag",
+      "x": 3479,
+      "y": 1307
+    },
+    {
+      "tagtype": "istag",
+      "x": 3728,
+      "y": 1254
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3873,
+      "y": 1394
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3934,
+      "y": 1035
+    },
+    {
+      "tagtype": "istag",
+      "x": 4032,
+      "y": 783
+    },
+    {
+      "tagtype": "istag",
+      "x": 409,
+      "y": 1657
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 580,
+      "y": 1966
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 552,
+      "y": 1933
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 767,
+      "y": 1933
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 689,
+      "y": 2076
+    },
+    {
+      "tagtype": "istag",
+      "x": 911,
+      "y": 1911
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 986,
+      "y": 1853
+    },
+    {
+      "tagtype": "istag",
+      "x": 1103,
+      "y": 1773
+    },
+    {
+      "tagtype": "istag",
+      "x": 1281,
+      "y": 1907
+    },
+    {
+      "tagtype": "istag",
+      "x": 1335,
+      "y": 1939
+    },
+    {
+      "tagtype": "istag",
+      "x": 1417,
+      "y": 1786
+    },
+    {
+      "tagtype": "istag",
+      "x": 1399,
+      "y": 1978
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1433,
+      "y": 1633
+    },
+    {
+      "tagtype": "istag",
+      "x": 1618,
+      "y": 1782
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1577,
+      "y": 1799
+    },
+    {
+      "tagtype": "istag",
+      "x": 1773,
+      "y": 1677
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1711,
+      "y": 1721
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1657,
+      "y": 1661
+    },
+    {
+      "tagtype": "istag",
+      "x": 1672,
+      "y": 1932
+    },
+    {
+      "tagtype": "istag",
+      "x": 1818,
+      "y": 1995
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1730,
+      "y": 2079
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1816,
+      "y": 1840
+    },
+    {
+      "tagtype": "istag",
+      "x": 1958,
+      "y": 1821
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1940,
+      "y": 1727
+    },
+    {
+      "tagtype": "istag",
+      "x": 2251,
+      "y": 1685
+    },
+    {
+      "tagtype": "istag",
+      "x": 2270,
+      "y": 1892
+    },
+    {
+      "tagtype": "istag",
+      "x": 2163,
+      "y": 1965
+    },
+    {
+      "tagtype": "istag",
+      "x": 2351,
+      "y": 1915
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1978,
+      "y": 1932
+    },
+    {
+      "tagtype": "istag",
+      "x": 2562,
+      "y": 1793
+    },
+    {
+      "tagtype": "istag",
+      "x": 2524,
+      "y": 1878
+    },
+    {
+      "tagtype": "istag",
+      "x": 2503,
+      "y": 1958
+    },
+    {
+      "tagtype": "istag",
+      "x": 2562,
+      "y": 2044
+    },
+    {
+      "tagtype": "istag",
+      "x": 2635,
+      "y": 2015
+    },
+    {
+      "tagtype": "istag",
+      "x": 2694,
+      "y": 1929
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2327,
+      "y": 2080
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2249,
+      "y": 1775
+    },
+    {
+      "tagtype": "istag",
+      "x": 2775,
+      "y": 1807
+    },
+    {
+      "tagtype": "istag",
+      "x": 2736,
+      "y": 2067
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2944,
+      "y": 1988
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2953,
+      "y": 1722
+    },
+    {
+      "tagtype": "istag",
+      "x": 3269,
+      "y": 1985
+    },
+    {
+      "tagtype": "istag",
+      "x": 3261,
+      "y": 1821
+    },
+    {
+      "tagtype": "istag",
+      "x": 3486,
+      "y": 1879
+    },
+    {
+      "tagtype": "istag",
+      "x": 3865,
+      "y": 1893
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3964,
+      "y": 1865
+    },
+    {
+      "tagtype": "istag",
+      "x": 3869,
+      "y": 1630
+    },
+    {
+      "tagtype": "istag",
+      "x": 435,
+      "y": 2209
+    },
+    {
+      "tagtype": "istag",
+      "x": 615,
+      "y": 2182
+    },
+    {
+      "tagtype": "istag",
+      "x": 585,
+      "y": 2101
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 835,
+      "y": 2249
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 800,
+      "y": 2137
+    },
+    {
+      "tagtype": "istag",
+      "x": 440,
+      "y": 2465
+    },
+    {
+      "tagtype": "istag",
+      "x": 615,
+      "y": 2536
+    },
+    {
+      "tagtype": "istag",
+      "x": 897,
+      "y": 2584
+    },
+    {
+      "tagtype": "istag",
+      "x": 1041,
+      "y": 2551
+    },
+    {
+      "tagtype": "istag",
+      "x": 1156,
+      "y": 2435
+    },
+    {
+      "tagtype": "istag",
+      "x": 993,
+      "y": 2375
+    },
+    {
+      "tagtype": "istag",
+      "x": 976,
+      "y": 2228
+    },
+    {
+      "tagtype": "istag",
+      "x": 1178,
+      "y": 2131
+    },
+    {
+      "tagtype": "istag",
+      "x": 1203,
+      "y": 2267
+    },
+    {
+      "tagtype": "istag",
+      "x": 1275,
+      "y": 2532
+    },
+    {
+      "tagtype": "istag",
+      "x": 1386,
+      "y": 2389
+    },
+    {
+      "tagtype": "istag",
+      "x": 1381,
+      "y": 2563
+    },
+    {
+      "tagtype": "istag",
+      "x": 1413,
+      "y": 2106
+    },
+    {
+      "tagtype": "istag",
+      "x": 1441,
+      "y": 2259
+    },
+    {
+      "tagtype": "istag",
+      "x": 1613,
+      "y": 2321
+    },
+    {
+      "tagtype": "istag",
+      "x": 1496,
+      "y": 2443
+    },
+    {
+      "tagtype": "istag",
+      "x": 1487,
+      "y": 2527
+    },
+    {
+      "tagtype": "istag",
+      "x": 1566,
+      "y": 2467
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1545,
+      "y": 2405
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1716,
+      "y": 2505
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1645,
+      "y": 2201
+    },
+    {
+      "tagtype": "istag",
+      "x": 1787,
+      "y": 2145
+    },
+    {
+      "tagtype": "istag",
+      "x": 1885,
+      "y": 2182
+    },
+    {
+      "tagtype": "istag",
+      "x": 1937,
+      "y": 2449
+    },
+    {
+      "tagtype": "istag",
+      "x": 1990,
+      "y": 2522
+    },
+    {
+      "tagtype": "istag",
+      "x": 2011,
+      "y": 2309
+    },
+    {
+      "tagtype": "istag",
+      "x": 2227,
+      "y": 2285
+    },
+    {
+      "tagtype": "istag",
+      "x": 2181,
+      "y": 2175
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2289,
+      "y": 2213
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2020,
+      "y": 2010
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2148,
+      "y": 2408
+    },
+    {
+      "tagtype": "istag",
+      "x": 2436,
+      "y": 2163
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2293,
+      "y": 2329
+    },
+    {
+      "tagtype": "istag",
+      "x": 2476,
+      "y": 2239
+    },
+    {
+      "tagtype": "istag",
+      "x": 2509,
+      "y": 2387
+    },
+    {
+      "tagtype": "istag",
+      "x": 2448,
+      "y": 2495
+    },
+    {
+      "tagtype": "istag",
+      "x": 2389,
+      "y": 2567
+    },
+    {
+      "tagtype": "istag",
+      "x": 2728,
+      "y": 2264
+    },
+    {
+      "tagtype": "istag",
+      "x": 2839,
+      "y": 2201
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2868,
+      "y": 2433
+    },
+    {
+      "tagtype": "istag",
+      "x": 3166,
+      "y": 2285
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3239,
+      "y": 2265
+    },
+    {
+      "tagtype": "istag",
+      "x": 3347,
+      "y": 2379
+    },
+    {
+      "tagtype": "istag",
+      "x": 3392,
+      "y": 2498
+    },
+    {
+      "tagtype": "istag",
+      "x": 3887,
+      "y": 2305
+    },
+    {
+      "tagtype": "istag",
+      "x": 3886,
+      "y": 2125
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 4005,
+      "y": 2183
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3697,
+      "y": 2568
+    },
+    {
+      "tagtype": "istag",
+      "x": 357,
+      "y": 2779
+    },
+    {
+      "tagtype": "istag",
+      "x": 688,
+      "y": 2648
+    },
+    {
+      "tagtype": "istag",
+      "x": 695,
+      "y": 2907
+    },
+    {
+      "tagtype": "istag",
+      "x": 944,
+      "y": 2994
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1053,
+      "y": 2937
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1047,
+      "y": 3023
+    },
+    {
+      "tagtype": "istag",
+      "x": 1099,
+      "y": 2881
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1087,
+      "y": 2797
+    },
+    {
+      "tagtype": "istag",
+      "x": 947,
+      "y": 2789
+    },
+    {
+      "tagtype": "istag",
+      "x": 1257,
+      "y": 2704
+    },
+    {
+      "tagtype": "istag",
+      "x": 1341,
+      "y": 2681
+    },
+    {
+      "tagtype": "istag",
+      "x": 1321,
+      "y": 2843
+    },
+    {
+      "tagtype": "istag",
+      "x": 1514,
+      "y": 2937
+    },
+    {
+      "tagtype": "istag",
+      "x": 1552,
+      "y": 2774
+    },
+    {
+      "tagtype": "istag",
+      "x": 1706,
+      "y": 2914
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1621,
+      "y": 2807
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1787,
+      "y": 2814
+    },
+    {
+      "tagtype": "istag",
+      "x": 1797,
+      "y": 2653
+    },
+    {
+      "tagtype": "istag",
+      "x": 1741,
+      "y": 2975
+    },
+    {
+      "tagtype": "istag",
+      "x": 1807,
+      "y": 3037
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2011,
+      "y": 2823
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2071,
+      "y": 2855
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1997,
+      "y": 2987
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 1929,
+      "y": 2617
+    },
+    {
+      "tagtype": "istag",
+      "x": 2070,
+      "y": 2725
+    },
+    {
+      "tagtype": "istag",
+      "x": 2321,
+      "y": 2629
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2175,
+      "y": 2750
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2243,
+      "y": 2787
+    },
+    {
+      "tagtype": "istag",
+      "x": 2335,
+      "y": 2927
+    },
+    {
+      "tagtype": "istag",
+      "x": 2433,
+      "y": 2758
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2449,
+      "y": 2838
+    },
+    {
+      "tagtype": "istag",
+      "x": 2536,
+      "y": 2923
+    },
+    {
+      "tagtype": "istag",
+      "x": 2557,
+      "y": 3031
+    },
+    {
+      "tagtype": "istag",
+      "x": 2634,
+      "y": 2968
+    },
+    {
+      "tagtype": "istag",
+      "x": 2653,
+      "y": 2618
+    },
+    {
+      "tagtype": "istag",
+      "x": 2805,
+      "y": 2983
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2877,
+      "y": 2571
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 2811,
+      "y": 2649
+    },
+    {
+      "tagtype": "istag",
+      "x": 3115,
+      "y": 2850
+    },
+    {
+      "tagtype": "istag",
+      "x": 3178,
+      "y": 2784
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3088,
+      "y": 2703
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3059,
+      "y": 2619
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3395,
+      "y": 2793
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3257,
+      "y": 2637
+    },
+    {
+      "tagtype": "bee_without_tag",
+      "x": 3431,
+      "y": 2567
+    },
+    {
+      "tagtype": "istag",
+      "x": 3548,
+      "y": 2854
+    }
+  ]
+}
