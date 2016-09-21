@@ -104,10 +104,8 @@ def generate_dataset(gt, clahe, X, Y, tag_size, samples_per_file):
 
 
 @click.command()
-@click.option('--path', help='Location of deeplocalizer_data repo',
-              type=click.Path(exists=True, dir_okay=True, file_okay=False))
-@click.option('--output', help='Location of trainset hdf5 file',
-              type=click.Path(exists=False, dir_okay=False, file_okay=True))
+@click.argument('path', type=click.Path(exists=True, dir_okay=True, file_okay=False))
+@click.argument('output', type=click.Path(exists=False, dir_okay=False, file_okay=True))
 @click.option('--roi_size', type=int, default=128, help='ROI width and height')
 @click.option('--samples_per_file', type=int, default=2048,
               help='How many samples to extract from each file')
